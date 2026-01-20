@@ -1,0 +1,10 @@
+librosa
+soundfile
+pyloudnorm
+noisereduce
+moviepy
+tqdm
+numpy
+demucs
+diffq
+torch==2.2.2 --extra-index-url https://download.pytorch.org/whl/cpu
